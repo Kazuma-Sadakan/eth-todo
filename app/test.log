@@ -1,0 +1,715 @@
+2022-02-03 17:54:03,030:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 17:54:05,890:ERROR:write_contract failed
+2022-02-03 17:55:56,244:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 17:55:59,337:ERROR:write_contract failed
+2022-02-03 17:58:28,107:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 17:58:30,149:ERROR:write_contract failed
+2022-02-03 17:59:36,822:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 17:59:36,898:ERROR:string indices must be integers
+2022-02-03 18:00:32,119:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 18:00:35,795:ERROR:string indices must be integers
+2022-02-03 18:01:03,129:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 18:01:04,248:ERROR:string indices must be integers
+2022-02-03 18:01:38,073:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 18:03:14,406:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 18:21:11,920:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 18:22:20,708:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 18:22:20,839:ERROR:abi not found
+2022-02-03 18:26:09,950:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 19:18:10,969:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 19:18:11,463:DEBUG:Making request HTTP. URI: http://127.0.0.1:8545, Method: web3_clientVersion
+2022-02-03 19:18:11,519:DEBUG:Starting new HTTP connection (1): 127.0.0.1:8545
+2022-02-03 19:18:11,756:DEBUG:http://127.0.0.1:8545 "POST / HTTP/1.1" 200 None
+2022-02-03 19:18:11,757:DEBUG:Getting response HTTP. URI: http://127.0.0.1:8545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.2/ethereum-js'}
+2022-02-03 19:25:45,503:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 19:25:49,973:DEBUG:Making request HTTP. URI: http://127.0.0.1:8545, Method: web3_clientVersion
+2022-02-03 19:25:49,986:DEBUG:Starting new HTTP connection (1): 127.0.0.1:8545
+2022-02-03 19:25:50,056:DEBUG:http://127.0.0.1:8545 "POST / HTTP/1.1" 200 None
+2022-02-03 19:25:50,057:DEBUG:Getting response HTTP. URI: http://127.0.0.1:8545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.2/ethereum-js'}
+2022-02-03 21:56:31,038:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 21:56:33,080:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 21:56:33,122:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 21:56:33,150:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:56:33,151:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 21:56:55,637:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 21:56:55,703:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 21:56:55,721:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 21:56:55,728:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:56:55,729:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 21:56:56,122:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 21:56:56,124:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 21:56:56,139:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:56:56,141:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x0'}
+2022-02-03 21:57:04,745:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 21:57:04,819:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 21:57:04,830:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 21:57:04,833:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:57:04,834:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 21:57:05,070:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 21:57:05,072:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 21:57:05,079:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:57:05,080:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x0'}
+2022-02-03 21:57:05,081:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 21:57:05,081:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 21:57:05,085:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:57:05,086:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 21:57:05,088:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 21:57:05,089:DEBUG:Making request. Method: eth_chainId
+2022-02-03 21:57:05,089:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 21:57:05,095:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:57:05,096:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 21:57:05,096:DEBUG:Making request. Method: eth_chainId
+2022-02-03 21:57:05,096:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 21:57:05,100:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:57:05,101:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 21:57:05,101:DEBUG:Making request. Method: eth_chainId
+2022-02-03 21:57:05,101:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 21:57:05,105:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 21:57:05,106:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:02:29,311:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:02:32,362:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:02:32,385:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:02:32,388:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:02:32,389:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:02:32,571:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:02:32,572:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:02:32,583:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:02:32,583:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x0'}
+2022-02-03 22:02:32,584:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:02:32,584:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:02:32,593:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:02:32,594:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:02:32,596:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:02:32,597:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:02:32,597:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:02:32,604:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:02:32,605:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:02:32,606:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:02:32,606:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:02:32,610:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:02:32,610:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:02:32,611:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:02:32,611:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:02:32,614:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:02:32,614:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:03:04,284:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:03:04,346:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:03:04,359:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:03:04,368:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:04,370:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:03:04,600:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:03:04,602:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:03:04,612:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:04,613:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x0'}
+2022-02-03 22:03:04,615:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:03:04,615:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:03:04,624:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:04,625:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:03:04,627:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:03:04,628:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:03:04,628:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:03:04,633:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:04,637:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:03:04,637:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:03:04,637:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:03:04,642:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:04,646:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:03:04,646:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:03:04,646:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:03:04,651:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:04,651:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:03:23,341:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:03:23,391:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:03:23,401:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:03:23,404:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:23,404:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:03:23,600:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:03:23,601:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:03:23,611:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:23,612:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x0'}
+2022-02-03 22:03:23,613:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:03:23,615:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:03:23,623:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:23,623:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:03:23,626:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:03:23,627:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:03:23,627:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:03:23,634:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:23,634:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:03:23,635:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:03:23,635:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:03:23,639:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:23,640:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:03:23,642:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:03:24,028:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:24,028:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:03:24,038:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:03:24,039:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:03:24,141:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:03:24,149:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x8b0bdb42e6c95b23ee47ca843e709a904312875c1d44c083566c279ea9865b19'}
+2022-02-03 22:05:19,256:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:05:19,325:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:05:19,371:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:05:19,375:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:05:19,375:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:07:18,557:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:07:19,764:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:07:19,776:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:07:19,780:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:07:19,781:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:07:19,973:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:07:19,975:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:07:19,981:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:07:19,981:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x1'}
+2022-02-03 22:07:19,982:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:07:19,982:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:07:19,990:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:07:19,991:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:07:19,994:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:07:19,995:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:07:19,995:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:07:20,000:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:07:20,001:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:07:20,001:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:07:20,001:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:07:20,008:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:07:20,009:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:07:20,010:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:07:20,169:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:07:20,169:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:07:20,178:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:07:20,179:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:07:20,285:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:07:20,289:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0xae2685a382726eec0f4ede103d38fed8a578d2ed5bddf74955ec193038ced7c5'}
+2022-02-03 22:10:33,729:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:10:35,241:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:10:35,267:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:10:35,278:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,279:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:10:35,524:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:10:35,525:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:10:35,530:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,531:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x2'}
+2022-02-03 22:10:35,535:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:10:35,535:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:10:35,542:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,544:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:10:35,545:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:10:35,545:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:10:35,545:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:10:35,550:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,551:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:10:35,551:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:10:35,551:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:10:35,556:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,558:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:10:35,560:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:10:35,752:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,752:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:10:35,761:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:10:35,761:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:10:35,830:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,832:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x80c412389762bf4190c77c94fa0048aae812267568666380f7e6a7013bb01c54'}
+2022-02-03 22:10:35,833:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-03 22:10:35,833:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-03 22:10:35,840:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:10:35,840:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x80c412389762bf4190c77c94fa0048aae812267568666380f7e6a7013bb01c54', 'transactionIndex': '0x0', 'blockHash': '0xf071a06e1a853b5a508098bef3a3a78591b28afe8b0b4b6a54a5b94d12937a12', 'blockNumber': '0x6', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0x6623b9121d3b2ac023cfe207248e659cc89117b6', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x80c412389762bf4190c77c94fa0048aae812267568666380f7e6a7013bb01c54', 'blockHash': '0xf071a06e1a853b5a508098bef3a3a78591b28afe8b0b4b6a54a5b94d12937a12', 'blockNumber': '0x6', 'address': '0x6623b9121d3b2ac023cfe207248e659cc89117b6', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-03 22:12:39,119:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:12:39,543:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:12:39,553:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:12:39,556:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:39,557:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:12:39,813:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:12:39,814:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:12:39,824:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:39,825:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x3'}
+2022-02-03 22:12:39,826:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:12:39,826:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:12:39,831:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:39,833:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:12:39,836:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:12:39,837:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:12:39,837:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:12:39,856:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:39,857:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:12:39,857:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:12:39,857:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:12:39,862:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:39,862:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:12:39,863:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:12:39,980:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:39,981:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:12:39,989:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:12:39,990:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:12:40,214:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:40,215:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x4ab2b1a57f699e224caf9a2980382bc23abf5a0e8a35ceaf82d647497386f9db'}
+2022-02-03 22:12:40,220:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-03 22:12:40,222:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-03 22:12:40,267:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:12:40,267:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x4ab2b1a57f699e224caf9a2980382bc23abf5a0e8a35ceaf82d647497386f9db', 'transactionIndex': '0x0', 'blockHash': '0x58d7551807c408cfb5f5fe046d6077145efc925e900cfd85ea193c2aa7e6fe79', 'blockNumber': '0x7', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0xc8875ac72b20875fdc99247b50fb65aa4c42665f', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x4ab2b1a57f699e224caf9a2980382bc23abf5a0e8a35ceaf82d647497386f9db', 'blockHash': '0x58d7551807c408cfb5f5fe046d6077145efc925e900cfd85ea193c2aa7e6fe79', 'blockNumber': '0x7', 'address': '0xc8875ac72b20875fdc99247b50fb65aa4c42665f', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000080000000000000000000000000000000010000000000000000000000000000'}}
+2022-02-03 22:17:27,381:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:17:28,713:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:17:28,727:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:17:28,737:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:28,738:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:17:28,796:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:17:28,802:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:28,803:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:17:28,965:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:17:28,970:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:28,970:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:17:28,988:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:17:28,990:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:17:29,023:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:29,023:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x4'}
+2022-02-03 22:17:29,026:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:17:29,027:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:17:29,036:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:29,037:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:17:29,038:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:17:29,039:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:17:29,040:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:17:29,046:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:29,046:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:17:29,047:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:17:29,047:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:17:29,055:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:29,055:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:17:29,057:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:17:29,272:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:29,273:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:17:29,286:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:17:29,287:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:17:29,387:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:29,392:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x69e5a371c5ab34163a9c9c235edb758760a596dc27fd039eda4561ad9700af72'}
+2022-02-03 22:17:29,393:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-03 22:17:29,394:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-03 22:17:29,490:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:17:29,491:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x69e5a371c5ab34163a9c9c235edb758760a596dc27fd039eda4561ad9700af72', 'transactionIndex': '0x0', 'blockHash': '0x02dcb800632c5708d3751f971411bf0a6537fffb76ba10c1a65b0608692e1579', 'blockNumber': '0x8', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0x9986b59d8a027f1f936a4c1423cbe31cf60896d5', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x69e5a371c5ab34163a9c9c235edb758760a596dc27fd039eda4561ad9700af72', 'blockHash': '0x02dcb800632c5708d3751f971411bf0a6537fffb76ba10c1a65b0608692e1579', 'blockNumber': '0x8', 'address': '0x9986b59d8a027f1f936a4c1423cbe31cf60896d5', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000008000000000000000000000000000000000040080000000000000000000000000000000080000002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-03 22:18:53,231:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:18:53,354:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:18:53,365:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:18:53,367:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,368:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:18:53,414:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:18:53,418:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,418:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:18:53,575:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:18:53,580:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,580:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:18:53,605:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:18:53,607:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:18:53,615:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,615:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x5'}
+2022-02-03 22:18:53,617:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:18:53,617:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:18:53,621:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,621:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:18:53,623:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:18:53,624:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:18:53,624:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:18:53,637:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,637:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:18:53,638:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:18:53,638:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:18:53,641:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,641:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:18:53,643:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:18:53,747:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,748:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:18:53,756:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:18:53,757:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:18:53,817:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,818:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0xbeafd9ee323370d3257e985ff33867f3acb3187dd2e870692e3c55c854a6b17a'}
+2022-02-03 22:18:53,822:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-03 22:18:53,824:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-03 22:18:53,846:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:18:53,847:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0xbeafd9ee323370d3257e985ff33867f3acb3187dd2e870692e3c55c854a6b17a', 'transactionIndex': '0x0', 'blockHash': '0x2decda0f8f6f06a5ee28d39adb2d3e67f57906974d85e7e527b1939782b57a7c', 'blockNumber': '0x9', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0xbcc396bb9b2eb50ee3d8b9fbe73be56e08d1d812', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0xbeafd9ee323370d3257e985ff33867f3acb3187dd2e870692e3c55c854a6b17a', 'blockHash': '0x2decda0f8f6f06a5ee28d39adb2d3e67f57906974d85e7e527b1939782b57a7c', 'blockNumber': '0x9', 'address': '0xbcc396bb9b2eb50ee3d8b9fbe73be56e08d1d812', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000100000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000080000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-03 22:19:25,530:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:19:25,581:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:19:25,588:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:19:25,591:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,592:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:19:25,599:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:19:25,600:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:19:25,605:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,606:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x6'}
+2022-02-03 22:19:25,606:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:19:25,606:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:19:25,609:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,610:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:19:25,611:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:19:25,611:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:19:25,611:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:19:25,615:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,615:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:19:25,615:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:19:25,615:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:19:25,618:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,619:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:19:25,620:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:19:25,725:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,726:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:19:25,736:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:19:25,737:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:19:25,822:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,826:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0xd3b031c20c4c21bfcd9ec816329cb195772fa1bd1f513f9aef93efa4ff2a74e9'}
+2022-02-03 22:19:25,827:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-03 22:19:25,828:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-03 22:19:25,964:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:19:25,965:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0xd3b031c20c4c21bfcd9ec816329cb195772fa1bd1f513f9aef93efa4ff2a74e9', 'transactionIndex': '0x0', 'blockHash': '0xcebdd3c593eb6eb703b8a648d8cab45a46317cac0e5218a8a1ebebb3a6c45e4e', 'blockNumber': '0xa', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0x6bafdc4c98705bac87da00748afe2dd86b5d7cf7', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0xd3b031c20c4c21bfcd9ec816329cb195772fa1bd1f513f9aef93efa4ff2a74e9', 'blockHash': '0xcebdd3c593eb6eb703b8a648d8cab45a46317cac0e5218a8a1ebebb3a6c45e4e', 'blockNumber': '0xa', 'address': '0x6bafdc4c98705bac87da00748afe2dd86b5d7cf7', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000008000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000020000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-03 22:28:04,947:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:28:05,160:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:28:05,186:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:28:05,190:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,191:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:28:05,237:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:28:05,241:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,242:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:28:05,397:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:28:05,399:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:28:05,404:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,405:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x7'}
+2022-02-03 22:28:05,406:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:28:05,406:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:28:05,410:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,410:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:28:05,412:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:28:05,413:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:28:05,413:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:28:05,419:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,419:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:28:05,420:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:28:05,420:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:28:05,428:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,429:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:28:05,431:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:28:05,619:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,620:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:28:05,629:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:28:05,629:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:28:05,797:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,798:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x7a7cec12fd95d43cebef11ae283e813d03f0ad277c3339a394bc9ee612cd9f30'}
+2022-02-03 22:28:05,799:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-03 22:28:05,801:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-03 22:28:05,838:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,838:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x7a7cec12fd95d43cebef11ae283e813d03f0ad277c3339a394bc9ee612cd9f30', 'transactionIndex': '0x0', 'blockHash': '0x282fbad0c07e870c10b767a26d21b94872f9ff450bf7ce2b15785176308577d6', 'blockNumber': '0xb', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0xf349d394c5010df4e990dd31b87899469d7492ed', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x7a7cec12fd95d43cebef11ae283e813d03f0ad277c3339a394bc9ee612cd9f30', 'blockHash': '0x282fbad0c07e870c10b767a26d21b94872f9ff450bf7ce2b15785176308577d6', 'blockNumber': '0xb', 'address': '0xf349d394c5010df4e990dd31b87899469d7492ed', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-03 22:28:05,956:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:28:05,958:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:28:05,973:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,974:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 8, 'jsonrpc': '2.0', 'result': '0x8'}
+2022-02-03 22:28:05,975:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:28:05,975:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:28:05,980:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,980:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 9, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:28:05,981:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:28:05,982:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:28:05,982:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:28:05,991:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,992:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 10, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:28:05,992:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:28:05,992:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:28:05,997:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:05,998:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 11, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:28:06,000:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:28:06,095:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:06,095:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 12, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:28:06,108:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:28:06,109:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:28:06,175:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:28:06,176:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 13, 'jsonrpc': '2.0', 'result': '0xaa1bb93a46da3184ec527497c0d7c6f2ee5ec72abc4a774c4fc998428f7d419c'}
+2022-02-03 22:29:28,502:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-03 22:29:29,143:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:29:29,154:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-03 22:29:29,158:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,159:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:29:29,206:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-03 22:29:29,210:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,211:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-03 22:29:29,362:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:29:29,363:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:29:29,370:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,371:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x9'}
+2022-02-03 22:29:29,372:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:29:29,372:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:29:29,377:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,378:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:29:29,380:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:29:29,381:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:29:29,381:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:29:29,386:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,387:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:29:29,387:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:29:29,387:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:29:29,392:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,392:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:29:29,394:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:29:29,519:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,519:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:29:29,544:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:29:29,544:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:29:29,591:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,594:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0xf2e3b1ee1bde3a84b8d8416036a065df3c9b1194a74ab53c7c29eed97622baa3'}
+2022-02-03 22:29:29,595:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-03 22:29:29,596:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-03 22:29:29,623:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,625:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0xf2e3b1ee1bde3a84b8d8416036a065df3c9b1194a74ab53c7c29eed97622baa3', 'transactionIndex': '0x0', 'blockHash': '0xc19ea1c9b444fd433a0afee66ac2510b8ead1e6de013659650c4f029f8b5e81e', 'blockNumber': '0xd', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0xd8c59b6df19ba01f367cc8223fe11de7182ec6b3', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0xf2e3b1ee1bde3a84b8d8416036a065df3c9b1194a74ab53c7c29eed97622baa3', 'blockHash': '0xc19ea1c9b444fd433a0afee66ac2510b8ead1e6de013659650c4f029f8b5e81e', 'blockNumber': '0xd', 'address': '0xd8c59b6df19ba01f367cc8223fe11de7182ec6b3', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000200200000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000'}}
+2022-02-03 22:29:29,685:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-03 22:29:29,686:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-03 22:29:29,690:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,691:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 8, 'jsonrpc': '2.0', 'result': '0xa'}
+2022-02-03 22:29:29,691:DEBUG:Making request. Method: eth_gasPrice
+2022-02-03 22:29:29,691:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-03 22:29:29,694:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,695:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 9, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-03 22:29:29,696:DEBUG:Making request. Method: eth_estimateGas
+2022-02-03 22:29:29,696:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:29:29,696:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:29:29,699:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,700:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 10, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:29:29,700:DEBUG:Making request. Method: eth_chainId
+2022-02-03 22:29:29,700:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-03 22:29:29,703:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,704:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 11, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-03 22:29:29,705:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-03 22:29:29,760:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,760:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 12, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-03 22:29:29,769:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-03 22:29:29,769:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-03 22:29:29,811:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-03 22:29:29,812:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 13, 'jsonrpc': '2.0', 'result': '0x2d0f538ac92dc232b787b095a3199a21114015fd994fa6c071e917222d22fd6c'}
+2022-02-04 00:49:47,434:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:50:36,904:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:50:48,045:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:51:40,011:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:52:28,697:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:52:28,873:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:52:28,887:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-04 00:52:28,895:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:28,896:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:52:28,968:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:52:28,973:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:28,974:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:52:29,160:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-04 00:52:29,161:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-04 00:52:29,175:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:29,175:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0xb'}
+2022-02-04 00:52:29,176:DEBUG:Making request. Method: eth_gasPrice
+2022-02-04 00:52:29,177:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-04 00:52:29,199:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:29,200:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-04 00:52:29,201:DEBUG:Making request. Method: eth_estimateGas
+2022-02-04 00:52:29,202:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:52:29,202:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:52:29,206:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:29,206:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:52:29,207:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:52:29,207:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:52:29,211:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:29,211:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:52:29,213:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-04 00:52:29,647:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:29,648:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-04 00:52:29,657:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-04 00:52:29,657:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-04 00:52:29,830:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:29,831:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x84070bd58774ef35e636a4e11c4a24e5a29141bc76f165a74139ae31176c24df'}
+2022-02-04 00:52:29,833:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-04 00:52:29,834:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-04 00:52:29,880:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:29,881:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x84070bd58774ef35e636a4e11c4a24e5a29141bc76f165a74139ae31176c24df', 'transactionIndex': '0x0', 'blockHash': '0x0a20f02aaf47030371a7a5f8ce8dc2a981fef1d828aef99158d8c44eb425a12b', 'blockNumber': '0xf', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0x334ed972b76f434af5f942db3d20122fd6df6892', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x84070bd58774ef35e636a4e11c4a24e5a29141bc76f165a74139ae31176c24df', 'blockHash': '0x0a20f02aaf47030371a7a5f8ce8dc2a981fef1d828aef99158d8c44eb425a12b', 'blockNumber': '0xf', 'address': '0x334ed972b76f434af5f942db3d20122fd6df6892', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000800000000000000000000000000000000000000000000000000000000000080000000000200000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-04 00:52:30,045:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-04 00:52:30,046:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-04 00:52:30,052:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:30,054:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 8, 'jsonrpc': '2.0', 'result': '0xc'}
+2022-02-04 00:52:30,055:DEBUG:Making request. Method: eth_gasPrice
+2022-02-04 00:52:30,055:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-04 00:52:30,060:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:30,060:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 9, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-04 00:52:30,062:DEBUG:Making request. Method: eth_estimateGas
+2022-02-04 00:52:30,063:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:52:30,063:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:52:30,067:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:30,068:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 10, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:52:30,068:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:52:30,068:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:52:30,073:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:30,074:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 11, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:52:30,076:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-04 00:52:30,260:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:30,261:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 12, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-04 00:52:30,274:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-04 00:52:30,276:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-04 00:52:30,354:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:52:30,362:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 13, 'jsonrpc': '2.0', 'result': '0xd66cb3126fd6bcc4a09237eed05111ff397b88cab729ce764f5a6855c43ed2cf'}
+2022-02-04 00:53:12,740:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:53:12,940:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:53:12,953:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-04 00:53:12,955:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:12,956:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:53:13,001:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:53:13,006:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,006:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:53:13,181:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-04 00:53:13,182:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-04 00:53:13,187:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,188:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0xd'}
+2022-02-04 00:53:13,188:DEBUG:Making request. Method: eth_gasPrice
+2022-02-04 00:53:13,189:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-04 00:53:13,193:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,193:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-04 00:53:13,194:DEBUG:Making request. Method: eth_estimateGas
+2022-02-04 00:53:13,195:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:53:13,195:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:53:13,198:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,199:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:53:13,199:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:53:13,199:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:53:13,204:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,205:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:53:13,206:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-04 00:53:13,286:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,287:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-04 00:53:13,296:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-04 00:53:13,296:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-04 00:53:13,368:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,375:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x8715c50fb5e727dcbf6d2865e2da75c0702e812b0fc4d382ebf50229efab4c66'}
+2022-02-04 00:53:13,380:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-04 00:53:13,381:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-04 00:53:13,393:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,394:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x8715c50fb5e727dcbf6d2865e2da75c0702e812b0fc4d382ebf50229efab4c66', 'transactionIndex': '0x0', 'blockHash': '0x3c95d16b54c8bbba7b9afc752b240bd8c9bb3e160c65147b4d93255d55914820', 'blockNumber': '0x11', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0x80253073316db508dd9163c2a896437eb544aa49', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x8715c50fb5e727dcbf6d2865e2da75c0702e812b0fc4d382ebf50229efab4c66', 'blockHash': '0x3c95d16b54c8bbba7b9afc752b240bd8c9bb3e160c65147b4d93255d55914820', 'blockNumber': '0x11', 'address': '0x80253073316db508dd9163c2a896437eb544aa49', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000200000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-04 00:53:13,473:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-04 00:53:13,474:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-04 00:53:13,479:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,480:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 8, 'jsonrpc': '2.0', 'result': '0xe'}
+2022-02-04 00:53:13,481:DEBUG:Making request. Method: eth_gasPrice
+2022-02-04 00:53:13,481:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-04 00:53:13,485:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,485:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 9, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-04 00:53:13,487:DEBUG:Making request. Method: eth_estimateGas
+2022-02-04 00:53:13,487:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:53:13,487:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:53:13,494:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,494:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 10, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:53:13,495:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:53:13,495:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:53:13,498:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,499:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 11, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:53:13,500:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-04 00:53:13,578:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,578:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 12, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-04 00:53:13,587:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-04 00:53:13,587:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-04 00:53:13,635:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:53:13,638:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 13, 'jsonrpc': '2.0', 'result': '0x32367c8e8ffff6cf52919e2a70ba876bf0349b3cedd26c07e939819eb8f89201'}
+2022-02-04 00:54:38,874:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:55:00,103:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:55:13,196:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:55:53,034:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:55:53,076:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:55:53,084:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-04 00:55:53,087:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:55:53,088:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:55:53,173:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-04 00:55:53,174:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-04 00:55:53,178:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:55:53,179:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0xf'}
+2022-02-04 00:55:53,180:DEBUG:Making request. Method: eth_gasPrice
+2022-02-04 00:55:53,180:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-04 00:55:53,183:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:55:53,184:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-04 00:55:53,185:DEBUG:Making request. Method: eth_estimateGas
+2022-02-04 00:55:53,186:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:55:53,186:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:55:53,189:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:55:53,190:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:55:53,190:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:55:53,190:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:55:53,194:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:55:53,195:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:55:53,197:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-04 00:55:53,290:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:55:53,291:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-04 00:55:53,300:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-04 00:55:53,300:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-04 00:55:53,351:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:55:53,351:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x2cfe01cf46e74b4c86aab2cbcc764ecd70fd80d1a5ba1221d819c780c941a14b'}
+2022-02-04 00:56:54,103:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:56:54,177:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:56:54,188:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-04 00:56:54,204:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,205:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:56:54,232:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-04 00:56:54,232:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-04 00:56:54,239:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,240:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x10'}
+2022-02-04 00:56:54,240:DEBUG:Making request. Method: eth_gasPrice
+2022-02-04 00:56:54,241:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-04 00:56:54,250:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,251:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-04 00:56:54,252:DEBUG:Making request. Method: eth_estimateGas
+2022-02-04 00:56:54,253:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:56:54,253:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:56:54,258:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,258:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:56:54,259:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:56:54,259:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:56:54,267:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,267:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:56:54,268:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-04 00:56:54,465:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,465:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-04 00:56:54,475:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-04 00:56:54,475:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-04 00:56:54,515:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,517:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x6750242366a0182fc30f9f905f2d108cedbe6b340a2f383f8e7a0156bd08b373'}
+2022-02-04 00:56:54,535:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-04 00:56:54,537:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-04 00:56:54,568:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:56:54,569:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 7, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x6750242366a0182fc30f9f905f2d108cedbe6b340a2f383f8e7a0156bd08b373', 'transactionIndex': '0x0', 'blockHash': '0x387269eca1cb8fdc581145e1778ff97eba4ad812c2feada24dcaedbf1aebe80d', 'blockNumber': '0x14', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0x28ad16db14262f9a7bd754a98fd327613781dc6f', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x6750242366a0182fc30f9f905f2d108cedbe6b340a2f383f8e7a0156bd08b373', 'blockHash': '0x387269eca1cb8fdc581145e1778ff97eba4ad812c2feada24dcaedbf1aebe80d', 'blockNumber': '0x14', 'address': '0x28ad16db14262f9a7bd754a98fd327613781dc6f', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000010000000000020000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008000000000000200000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}}
+2022-02-04 00:57:09,455:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:57:09,501:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:57:09,512:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-04 00:57:09,515:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:09,515:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:57:09,516:DEBUG:Making request. Method: eth_blockNumber
+2022-02-04 00:57:09,516:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_blockNumber
+2022-02-04 00:57:09,523:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:09,524:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_blockNumber, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x14'}
+2022-02-04 00:57:18,897:INFO:solc 0.8.0 already installed at: /Users/kazumasadakane/.solcx/solc-v0.8.0
+2022-02-04 00:57:18,955:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion
+2022-02-04 00:57:18,966:DEBUG:Starting new HTTP connection (1): 0.0.0.0:7545
+2022-02-04 00:57:18,977:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:18,978:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'EthereumJS TestRPC/v2.13.1/ethereum-js'}
+2022-02-04 00:57:18,979:DEBUG:Making request. Method: eth_blockNumber
+2022-02-04 00:57:18,979:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_blockNumber
+2022-02-04 00:57:18,984:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:18,985:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_blockNumber, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x14'}
+2022-02-04 00:57:18,996:DEBUG:Making request. Method: eth_getTransactionCount
+2022-02-04 00:57:18,996:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount
+2022-02-04 00:57:19,007:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:19,007:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionCount, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x11'}
+2022-02-04 00:57:19,008:DEBUG:Making request. Method: eth_gasPrice
+2022-02-04 00:57:19,008:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice
+2022-02-04 00:57:19,012:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:19,012:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_gasPrice, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x4a817c800'}
+2022-02-04 00:57:19,017:DEBUG:Making request. Method: eth_estimateGas
+2022-02-04 00:57:19,018:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:57:19,018:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:57:19,023:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:19,024:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 4, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:57:19,024:DEBUG:Making request. Method: eth_chainId
+2022-02-04 00:57:19,024:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId
+2022-02-04 00:57:19,028:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:19,029:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_chainId, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x539'}
+2022-02-04 00:57:19,031:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas
+2022-02-04 00:57:19,087:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:19,088:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_estimateGas, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x9550f'}
+2022-02-04 00:57:19,099:DEBUG:Making request. Method: eth_sendRawTransaction
+2022-02-04 00:57:19,099:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction
+2022-02-04 00:57:19,186:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:19,192:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_sendRawTransaction, Response: {'id': 7, 'jsonrpc': '2.0', 'result': '0x1a04bd485e4ba4fef718b101ed209bd75b62f858aecf1c215ca1b22530ebc3ca'}
+2022-02-04 00:57:19,197:DEBUG:Making request. Method: eth_getTransactionReceipt
+2022-02-04 00:57:19,199:DEBUG:Making request HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt
+2022-02-04 00:57:19,225:DEBUG:http://0.0.0.0:7545 "POST / HTTP/1.1" 200 None
+2022-02-04 00:57:19,225:DEBUG:Getting response HTTP. URI: http://0.0.0.0:7545, Method: eth_getTransactionReceipt, Response: {'id': 8, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x1a04bd485e4ba4fef718b101ed209bd75b62f858aecf1c215ca1b22530ebc3ca', 'transactionIndex': '0x0', 'blockHash': '0x2d35445badbca93a59f2664c1f8f67e237e823580c4a4f86023391b9ccb432ab', 'blockNumber': '0x15', 'from': '0x8ae3a1eed274accf8962f9e8499dfec364b468eb', 'to': None, 'gasUsed': '0x9550f', 'cumulativeGasUsed': '0x9550f', 'contractAddress': '0x8eaa5dc90fad7fef5bb6d4cdf7c36d3d8562cc2c', 'logs': [{'logIndex': '0x0', 'transactionIndex': '0x0', 'transactionHash': '0x1a04bd485e4ba4fef718b101ed209bd75b62f858aecf1c215ca1b22530ebc3ca', 'blockHash': '0x2d35445badbca93a59f2664c1f8f67e237e823580c4a4f86023391b9ccb432ab', 'blockNumber': '0x15', 'address': '0x8eaa5dc90fad7fef5bb6d4cdf7c36d3d8562cc2c', 'data': '0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000115573652074686520746f646f206c697374000000000000000000000000000000', 'topics': ['0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660'], 'type': 'mined'}], 'status': '0x1', 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000200000000000000000000000000000000000000000000000080000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400'}}
